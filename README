@@ -1,0 +1,6 @@
+A simple WSGI application that can be used as a scafold.
+
+To run a server:
+pip install PasteScript
+paster serve config.ini
+
